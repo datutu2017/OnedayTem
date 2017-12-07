@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">快天气</string>
+    <string name="dianji">点击选择地址</string>
+    <string name="buttontq">查看天气详情</string>
+</resources>

@@ -1,0 +1,36 @@
+{
+    "HeWeather6": [
+        {
+            "basic": {
+                "cid": "CN101180611",
+                "location": "平桥",
+                "parent_city": "信阳",
+                "admin_area": "河南",
+                "cnty": "中国",
+                "lat": "32.0983963",
+                "lon": "114.12602997",
+                "tz": "+8.0"
+            },
+            "update": {
+                "loc": "2017-12-01 14:54",
+                "utc": "2017-12-01 06:54"
+            },
+            "status": "ok",
+            "now": {
+                "cloud": "4",
+                "cond_code": "101",
+                "cond_txt": "多云",
+                "fl": "1",
+                "hum": "70",
+                "pcpn": "0",
+                "pres": "1033",
+                "tmp": "7",
+                "vis": "13",
+                "wind_deg": "87",
+                "wind_dir": "东风",
+                "wind_sc": "微风",
+                "wind_spd": "8"
+            }
+        }
+    ]
+}
